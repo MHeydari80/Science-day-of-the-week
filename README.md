@@ -3,3 +3,6 @@ This program prompts the user to enter a year, month, and day of the month, and 
 Here are some sample runs:
 
 
+![01](https://user-images.githubusercontent.com/41565191/56284833-f2b54f00-612a-11e9-8fe3-1be48fce318a.PNG)
+
+![02](https://user-images.githubusercontent.com/41565191/56284842-f8129980-612a-11e9-97a7-29df087184f4.PNG)
