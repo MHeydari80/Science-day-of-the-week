@@ -1,4 +1,8 @@
 # Science-day-of-the-week
+
+(Zeller’s congruence is an algorithm developed by Christian Zeller to calculate the day of the week. The formula is
+ h=(q + 26 (m + 1) / 10 + k + k / 4 + j / 4 + 5j)%7).
+
 This program prompts the user to enter a year, month, and day of the month, and  displays the name of the day of the week.
 Here are some sample runs:
 
